@@ -15,3 +15,4 @@ Cursar este módulo y desarrollar este proyecto ha sido una experiencia muy enri
 Comprender cómo interactúan las sentencias condicionales junto con la captura de datos del usuario me ha permitido visualizar 
 el flujo lógico que hay detrás de las aplicaciones cotidianas. A pesar de los retos técnicos, el avance constante en el manejo 
 de estructuras de datos y sintaxis en Python me motiva a seguir aprendiendo y construyendo código más limpio y eficiente.
+
