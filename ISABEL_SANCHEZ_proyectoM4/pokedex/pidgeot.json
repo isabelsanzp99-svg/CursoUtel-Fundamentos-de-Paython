@@ -1,0 +1,29 @@
+{
+    "id": 18,
+    "nombre": "pidgeot",
+    "peso": 395,
+    "tamano": 15,
+    "tipos": [
+        "normal",
+        "flying"
+    ],
+    "habilidades": [
+        "keen-eye",
+        "tangled-feet",
+        "big-pecks"
+    ],
+    "movimientos_muestra": [
+        "razor-wind",
+        "gust",
+        "wing-attack",
+        "whirlwind",
+        "fly",
+        "sand-attack",
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge"
+    ],
+    "total_movimientos": 66,
+    "url_imagen_frontal": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+}

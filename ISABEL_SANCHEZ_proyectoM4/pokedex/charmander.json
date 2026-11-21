@@ -1,0 +1,27 @@
+{
+    "id": 4,
+    "nombre": "charmander",
+    "peso": 85,
+    "tamano": 6,
+    "tipos": [
+        "fire"
+    ],
+    "habilidades": [
+        "blaze",
+        "solar-power"
+    ],
+    "movimientos_muestra": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "scratch",
+        "swords-dance",
+        "cut",
+        "wing-attack",
+        "mega-kick",
+        "headbutt",
+        "tackle"
+    ],
+    "total_movimientos": 106,
+    "url_imagen_frontal": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+}
