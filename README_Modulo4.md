@@ -17,6 +17,15 @@ El proyecto está estructurado de forma modular dentro del archivo `ISABEL_SANCH
 ![Resultado de búsqueda Pokédex](captura_pokémon.png.png) 
 
 
+```text
+CursoUtel-Fundamentos-de-Paython/
+├──ISABEL_SANCHEZ_proyectoM4.py
+│   
+├── pokedex/
+     └── squirtle.json
+└── README.md
+
+
 REFLEXIONES DEL MODULO 
 Este módulo marcó un salto muy importante en mi forma de programar porque pasé de trabajar únicamente con datos locales a conectar mis programas con servicios reales en internet a través de una API. Al construir la Pokédex comprendí mejor cómo funciona una petición HTTP, qué significa validar los códigos de estado (como responder con claridad cuando un Pokémon no existe en lugar de que el programa falle) y cómo extraer únicamente la información necesaria desde estructuras JSON,
 me permitió integrar varios temas clave del módulo en un solo proyecto: consumo de APIs con requests, validación de respuestas HTTP, manejo de errores, creación de carpetas.
