@@ -14,7 +14,7 @@ El proyecto está estructurado de forma modular dentro del archivo `ISABEL_SANCH
 7. Persistencia en JSON utilizando "pathlib" y "json", el programa crea automáticamente la carpeta "pokedex/" (si no existe) y guarda la información del Pokémon consultado en un archivo.
 8. Visualización de imagen ("mostrar_imagen") Descarga el sprite frontal desde `sprites "front_default", lo procesa en memoria con "BytesIO" y "Pillow", y lo despliega en una ventana gráfica con "matplotlib".
 
-![Resultado de búsqueda Pokédex](captura_pokémon.png) 
+![Resultado de búsqueda Pokédex](captura_pokémon.png.png) 
 
 
 REFLEXIONES DEL MODULO 
